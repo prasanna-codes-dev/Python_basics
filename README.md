@@ -2,9 +2,9 @@
 
 ## Programs Completed
 
--1 Hello World
--2 Addition
--3 Even Odd
+- Hello World
+- Addition
+- Even Odd
 - Factorial
 - Largest of Two Numbers
 - Largest of Three Numbers
