@@ -1,44 +1,53 @@
 # Python Basics
 
-## Programs Completed
+This repository contains my Python practice programs. I am learning Python from basic to advanced and uploading my daily practice programs to GitHub.
 
-- Hello World
-- Addition
-- Even Odd
-- Factorial
-- Largest of Two Numbers
-- Largest of Three Numbers
-- Positive or Negative
-- Sum of First 10 Numbers
-- Even Numbers (1 to 100)
-- Odd Numbers (1 to 100)
-- Factorial Using Loop
-- Reverse Count
-- Sum of 1 to N
-- Multiplication Table
-- Multiplication Table Using Loop
-- Star Pattern 1
-- Star Pattern 2
-- Count Even and Odd
-- Sum of Digits
-- Reverse Number
-- Palindrome Number
-- Count Digits
-- Armstrong Number
+## 📂 Programs Completed (35)
 
-## Current Goal
+1. Hello
+2. Addition
+3. Even/Odd
+4. Factorial
+5. Largest of 3
+6. Largest of 2
+7. Positive/Negative
+8. Multiplication Table
+9. Sum of First 10 Numbers
+10. Even Numbers (1 to 100)
+11. Odd Numbers (1 to 100)
+12. Factorial Using Loop
+13. Reverse Count
+14. Sum of 1 to N
+15. Multiplication Table Using Loop
+16. Star Pattern 1
+17. Star Pattern 2
+18. Count Even and Odd
+19. Sum of Digits
+20. Reverse Number
+21. Palindrome Number
+22. Count Digits
+23. Armstrong Number
+24. Fibonacci Series
+25. Prime Numbers in Range
+26. Prime Number
+27. Perfect Number
+28. Strong Number
+29. GCD
+30. LCM
+31. Neon Number
+32. Automorphic Number
+33. Harshad Number
+34. Spy Number
+35. Duck Number
 
-Learn Python from Basics to Advanced.
+## 🎯 Current Progress
 
-## Target
+- ✅ Programs Completed: **35**
+- 🎯 Target: **225+ Python Programs**
+- 📅 Current Topic: **Functions**
 
-200+ Python Programs
+## 🚀 Goal
 
-## Author
-
-**Prasanna**
-
-BCA Student | Python Learner | Future Software Developer
-
-GitHub:
-https://github.com/prasanna-codes-dev
+- Complete Python from Basic to Advanced
+- Build a Professional GitHub Profile
+- Become Job Ready
