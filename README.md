@@ -41,15 +41,14 @@ This repository contains my Python practice programs. I am learning Python from 
 35. Duck Number
 
 ## Phase 2 – Functions
-
-- [ ] 36. Addition Using Function
-- [ ] 37. Subtraction Using Function
-- [ ] 38. Multiplication Using Function
-- [ ] 39. Division Using Function
-- [ ] 40. Even or Odd Using Function
-- [ ] 41. Largest of Two Numbers Using Function
-- [ ] 42. Largest of Three Numbers Using Function
-- [ ] 43. Factorial Using Function
+ 36. Addition Using Function
+ 37. Subtraction Using Function
+ 38. Multiplication Using Function
+ 39. Division Using Function
+ 40. Even or Odd Using Function
+ 41. Largest of Two Numbers Using Function
+ 42. Largest of Three Numbers Using Function
+ 43. Factorial Using Function
 - [ ] 44. Prime Number Using Function
 - [ ] 45. Fibonacci Series Using Function
 - [ ] 46. Sum of Digits Using Function
